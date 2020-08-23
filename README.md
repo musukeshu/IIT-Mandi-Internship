@@ -4,7 +4,7 @@ This project contains 4 datasets:
 - Ring Dataset
 - Spiral Dataset
 - Interlock Dataset
-- Landslide Dataset
+- Landslide Dataset (Not available here because the file size is too large)
 #### Algorithms Used:
 Multiple Machine learning algorithms like SVM, Logistic Regression, Linear Regression, FDA, K-Means, KNN, etc and Artificial Neural Network model is used to assess the accuracy of each of these methods and to conclude which algorithm is best and for which dataset. This was my first machine learning project and almost all the models used and implemented from scratch without any use of inbuilt library.
 #### To run the project
